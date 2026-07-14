@@ -34,6 +34,9 @@ Everything is contained in a single file: `index.html`. No build tools, dependen
 - **Display**: styled like a Pantone swatch card, with a butter/brown color-chip strip above the numeric readout
 - **Typography**: Fraunces (serif) for the result display, Space Grotesk for buttons/UI, Space Mono for labels
 
+## Link
+🔗: https://sumreen-sf.github.io/CodeAlpha_Calculator/ 
+
 ## File Structure
 
 ```
