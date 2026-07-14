@@ -21,10 +21,10 @@ A basic calculator built with HTML, CSS, and JavaScript, styled around a butter 
 
 ## Tech Stack
 
-- **HTML** — structure/markup
-- **CSS** — all styling is internal (inline `<style>` block, no external stylesheet)
-- **JavaScript** — all logic is internal (inline `<script>` block, no external script file)
-- **Google Fonts** (Fraunces, Space Grotesk, Space Mono) — loaded via CDN link; requires an internet connection to display the intended fonts, but the calculator still functions without it (falls back to system fonts)
+- **HTML** : structure/markup
+- **CSS** : all styling is internal (inline `<style>` block, no external stylesheet)
+- **JavaScript** : all logic is internal (inline `<script>` block, no external script file)
+- **Google Fonts** (Fraunces, Space Grotesk, Space Mono) - loaded via CDN link; requires an internet connection to display the intended fonts, but the calculator still functions without it (falls back to system fonts)
 
 Everything is contained in a single file: `index.html`. No build tools, dependencies, or installation required.
 
